@@ -1,0 +1,17 @@
+produto,quantidade,preco_medio,receita_total
+Arroz,100,10.5,1050.0
+Feijão,150,20.0,3000.0
+Milho,75,15.75,1181.25
+Batata,-10,5.0,-50.0
+Tomate,200,30.0,6000.0
+Alface,50,10.5,525.0
+Cenoura,300,25.0,7500.0
+Milho,50000,5.0,250000.0
+Pimentão,95,18.0,1710.0
+Soja,120,invalido,1440.0
+,100,22.0,2200.0
+Trigo,50,24.5,4589.9876
+Abacaxi,8900000,38.9,358.89
+Morango,100,40.13,565.75
+Melancia,89,55.25,345.87
+Melão,-45,60.0,8900000.0
